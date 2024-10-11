@@ -57,7 +57,7 @@ npx prisma migrate dev --name ['name']
 npm install --save @nestjs/swagger
 ```
 
-## Compile and run the project
+### Compile and run the project
 
 ```bash
 # development
@@ -72,6 +72,7 @@ $ npm run start:prod
 
 ### Tutorial origin
 
+```bash
 Origin: 
 https://www.youtube.com/watch?v=wsqcg5ZtUMM&ab_channel=FaztCode
 
@@ -92,3 +93,4 @@ Summary:
 01:56:30    Swagger
 02:00:55    Cors
 02:04:06    Deploy with Railway
+```
